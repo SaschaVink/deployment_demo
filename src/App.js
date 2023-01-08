@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         <h1>Deployment is happening here!</h1>
+        <p> We just made an update does it reflect the live</p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
